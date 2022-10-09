@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf70feb1-038f-4915-8982-cbc7b5676559" name="Changes" comment="Usando CSS">
-      <change afterPath="$PROJECT_DIR$/src/components/List/Item/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stopwatch/Clock/Clock.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stopwatch/Clock/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stopwatch/Stopwatch.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stopwatch/index.tsx" afterDir="false" />
+    <list default="true" id="cf70feb1-038f-4915-8982-cbc7b5676559" name="Changes" comment="Props">
+      <change afterPath="$PROJECT_DIR$/src/common/utils/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List/Item/Item.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/types/ITask.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Form/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/Item/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/Item/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/List.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/List.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/List/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Stopwatch/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Stopwatch/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -80,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1664997686421</updated>
       <workItem from="1664997688962" duration="1598000" />
-      <workItem from="1665185348505" duration="3485000" />
+      <workItem from="1665185348505" duration="3518000" />
+      <workItem from="1665255768868" duration="2860000" />
+      <workItem from="1665276360011" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="Usando CSS">
       <created>1665185904209</created>
@@ -89,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665185904209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Props">
+      <created>1665191911397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665191911397</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Usando CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usando CSS" />
+    <MESSAGE value="Props" />
+    <option name="LAST_COMMIT_MESSAGE" value="Props" />
   </component>
 </project>
